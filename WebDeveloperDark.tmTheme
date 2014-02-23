@@ -32,8 +32,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#969896</string>
-				<key>background</key>
-				<string>#333333</string>
 			</dict>
 		</dict>
 		<!-- string -->
