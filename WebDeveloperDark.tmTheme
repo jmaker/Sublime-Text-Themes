@@ -182,6 +182,18 @@
 				<string>#212921</string>
 			</dict>
 		</dict>
+		<!-- sass -->
+		<dict>
+    			<key>name</key>
+			    <string>Sass: Variable</string>
+			    <key>scope</key>
+			    <string>source.sass variable</string>
+			    <key>settings</key>
+			    <dict>
+			        <key>foreground</key>
+			        <string>#fd9c36</string>
+    			    </dict>
+		</dict>
 	</array>
 </dict>
 </plist>
